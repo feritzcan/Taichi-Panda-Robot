@@ -18,4 +18,5 @@ Taichi panda is a koxp that acts like script which runs on the mobile game Taich
 
 --> Trys maps until it founds any type of orange equipments.
 
-![alt tag](http://tinypic.com/r/nn4dxe/9)
+
+![alt tag](http://i68.tinypic.com/nn4dxe.jpg)
